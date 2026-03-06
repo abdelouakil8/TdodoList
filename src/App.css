@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.iconButton{
+  transition: all 0.6s !important;
+}
+
+.iconButton:hover{
+  background-color:#c5c5c5  !important;
+  box-shadow: 0px 7px 7px rgba(0,0,0,0.4);
+}
+
+@font-face {
+  font-family: alyamama;
+  src: url("C:\Users\wakil\Desktop\wakilo\learn-react\revision-final\src\assets\fonts\Alyamama-Medium.ttf");
+}
+
